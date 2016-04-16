@@ -1,0 +1,8 @@
+{
+  "name": "why-should-you-consider-intrusive-reference-counting",
+  "version": "0.0.0",
+  "dependencies": {
+    "reveal.js": "~3.2.0",
+    "highlightjs": "~9.0.0"
+  }
+}

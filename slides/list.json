@@ -1,0 +1,32 @@
+[
+    "index.md",
+    "what-is-intrusive-reference-counting.md",
+    "reference-counting.md",
+    "used-in.md",
+    "what-is-intrusive-reference-counting-again.md",
+    "shared-vs-intrusive.md",
+    "take-away.md",
+    "what-is-wrong-with-shared-ptr.md",
+    [
+        "the-extra-reference.md",
+        "the-extra-reference-1.md",
+        "the-extra-reference-2.md",
+        "the-extra-reference-3.md",
+        "the-extra-reference-4.md"
+    ],
+    "lack-of-control.md",
+    "intrusive-ptr.md",
+    "plain-pointer.md",
+    [
+        "how-to-implement-intrusive-ptr.md",
+        "boost-intrusive-ptr.md",
+        "reference-counted.md",
+        "other-implementations.md"
+    ],
+    [
+        "benchmarks.md",
+        "benchmark-copy.md",
+        "benchmark-move.md",
+        "benchmark-deref.md"
+    ]
+]

@@ -1,6 +1,6 @@
-##  benchmark deref
+##  Benchmark iterate and dereference
 
-This is a new Markdown slide
+![Benchmark Iterate](resources/benchmark_iterate.svg)
 
 note:
     Put your speaker notes here.

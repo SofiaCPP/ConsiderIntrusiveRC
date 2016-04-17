@@ -1,6 +1,6 @@
-##  benchmark move
+##  Benchmark move
 
-This is a new Markdown slide
+![Benchmark move](resources/benchmark_move.svg)
 
 note:
     Put your speaker notes here.

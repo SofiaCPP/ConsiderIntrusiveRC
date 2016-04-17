@@ -5,7 +5,6 @@
     "used-in.md",
     "what-is-intrusive-reference-counting-again.md",
     "shared-vs-intrusive.md",
-    "take-away.md",
     "what-is-wrong-with-shared-ptr.md",
     [
         "the-extra-reference.md",
@@ -25,8 +24,9 @@
     ],
     [
         "benchmarks.md",
+        "benchmark-deref.md",
         "benchmark-copy.md",
-        "benchmark-move.md",
-        "benchmark-deref.md"
-    ]
+        "benchmark-move.md"
+    ],
+    "take-away.md"
 ]

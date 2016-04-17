@@ -1,6 +1,6 @@
-##  benchmark copy
+##  Benchmark copy
 
-This is a new Markdown slide
+![Benchmark copy](resources/benchmark_copy.svg)
 
 note:
     Put your speaker notes here.

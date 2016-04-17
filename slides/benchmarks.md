@@ -1,6 +1,6 @@
-##  benchmarks
+##  Benchmarks - Create / destroy
 
-This is a new Markdown slide
+![Benchmark Create](resources/benchmark_create.svg)
 
 note:
     Put your speaker notes here.

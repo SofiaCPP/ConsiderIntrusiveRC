@@ -1,7 +1,9 @@
-##  other implementations
+## Other implementations
 
-This is a new Markdown slide
+There are implementations in every large C++ project:
 
-note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+- llvm
+- WebKit
+- Chromium
+- Gecko
+- Chakra

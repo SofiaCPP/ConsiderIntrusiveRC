@@ -1,7 +1,10 @@
-##  reference counted
+## Embedding the RC
 
-This is a new Markdown slide
+- it will be tedious to manually add the RC to every resource class
+- inheritance and templates - [CRTP]() can help
 
-note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+```
+class Document : public RefCounted<Document>
+{
+};
+```

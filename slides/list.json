@@ -20,6 +20,10 @@
         "how-to-implement-intrusive-ptr.md",
         "boost-intrusive-ptr.md",
         "reference-counted.md",
+        "reference-counted-1.md",
+        "reference-counted-2.md",
+        "reference-counted-3.md",
+        "intrusive_ref_counter.md",
         "other-implementations.md"
     ],
     [

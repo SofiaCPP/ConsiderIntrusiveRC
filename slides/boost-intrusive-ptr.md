@@ -1,7 +1,17 @@
-##  boost::intrusive_ptr
+##  `boost::intrusive_ptr`
 
-This is a new Markdown slide
+- A smart pointer class for intrusive RC classes
+- the same as `shared_ptr`
 
-note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+```
+class Document;
+
+void intrusive_ptr_add_ref(Document* doc) {
+    ++doc->RC;
+}
+
+void intrusive_ptr_release(Document* doc) {
+    if (--doc->RC == 0)
+        delete doc;
+}
+```

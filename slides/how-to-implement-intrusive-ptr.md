@@ -1,6 +1,7 @@
 ##  How to implement intrusive_ptr
 
-This is a new Markdown slide
+- place the reference count in the resource
+- create a smart pointer to use the embedded RC
 
 note:
     Put your speaker notes here.
